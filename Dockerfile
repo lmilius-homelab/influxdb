@@ -1,3 +1,3 @@
-FROM influxdb:1.7
+FROM influxdb:1.8
 
 COPY config /etc/influxdb/
